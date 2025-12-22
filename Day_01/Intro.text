@@ -1,0 +1,36 @@
+This is my MERN Stack Development Journey 
+
+Day 01
+
+Website is unuseful without Internet
+
+Internet ::>Interconnected network of computer/devices is called Internet
+
+        ➡️IPAddress ::>Every device in the network(Internet) do  have a address called as IPAddress
+        ➡️Client       ::>The device that requests some data
+        ➡️Server      ➡️Active 24/7
+                             ➡️The device that handles the requests and give responses
+                              
+
+How this request travels from client to server
+
+Request goes from client to ISP(Internet Service Provider) from ISP to DNS(Domain Name System)
+➡️ISP ->Basicaly who provide you with internet
+➡️DNS ->It have address for all servers and for connection to server when you enter domain 
+               dns provide its address at which the server is there
+
+Now the server give data according to your request basically a bundle of HTML,CSS,JAVA_SCRIPT
+Which is processed by the browser to show a eye catchy website
+
+
+[client] requests youtube.com from [server]-----: (client->ISP->DNS->server)
+[server] provides bundle of HTML,CSS,JS to [client]-----:processed by the browser
+
+HTML ::> provides markup structure
+JAVA_SCRIPT ::> adds functionality
+CSS ::> adds beauty 
+
+like in a car 
+HTML gives the body where is mirror where is button where is engie where is light where is horn
+CSS gives color of car color of seat color of interior
+JAVA_SCRIPT gives function to engine to horn to light 

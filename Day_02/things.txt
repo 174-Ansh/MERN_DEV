@@ -1,0 +1,10 @@
+today we studied about 🌤️
+anchor tag⚓
+  when you want to display a link
+image tag🖼️
+   when you want to display an image
+attribute🕵🏽
+   for additional things about tags
+comments‼️
+   for telling some thing to the person who  sees your code
+   also a good practice
